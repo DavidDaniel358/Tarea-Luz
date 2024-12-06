@@ -1,0 +1,6 @@
+      <!-- crear opcion lampara ecologica -->
+      <li class="list__item">
+        <a href="{{size + "/2"}}">
+          <img class="item__img" src="https://www.shutterstock.com/image-vector/green-bulb-leaf-logo-design-260nw-1669609504.jpg" alt="light">
+          <span>lámpara ecologica</span></a>      
+    </ul>
